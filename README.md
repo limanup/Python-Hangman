@@ -34,4 +34,4 @@ This game is created as the assignment for problem set 2 of MIT's 6.0001 course
 "Introduction to Computer Science and Programming in Python" for Fall 2016 term.
 
 The open course can be found here: 
-https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/index.htm
+https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/
